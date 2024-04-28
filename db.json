@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "name": "Domates",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXiTOp6CJfpXBw27kjY24NSk1hNSa20KPDtA&s",
+      "id": "1"
+    },
+    {
+      "name": "Domates",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXiTOp6CJfpXBw27kjY24NSk1hNSa20KPDtA&s",
+      "id": "2"
+    },
+    {
+      "name": "Domates",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXiTOp6CJfpXBw27kjY24NSk1hNSa20KPDtA&s",
+      "id": "3"
+    },
+    {
+      "name": "Domates",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXiTOp6CJfpXBw27kjY24NSk1hNSa20KPDtA&s",
+      "id": "4"
+    }
+  ],
+  "baskets": []
+}
